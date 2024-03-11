@@ -11,4 +11,8 @@
 
 ## =Процесс выполнения работы=
 
-1. 
+1. Создан репозиторий на GitHub: https://github.com/Nikolaevch1/Final_test_DZ.git
+2. Ининциализирован репозиторий локально
+3. Добавлен фаил REDME.md
+4. Добавлен фаил Program.cs
+5. Произведено заполнение файлов REDME.md and Program.CS
