@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/FinalDZ/bin/Debug/net7.0/FinalDZ
+/Users/wsharanovcloud.com/Desktop/FinalDZ/bin/Debug/net7.0/FinalDZ.deps.json
+/Users/wsharanovcloud.com/Desktop/FinalDZ/bin/Debug/net7.0/FinalDZ.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/FinalDZ/bin/Debug/net7.0/FinalDZ.dll
+/Users/wsharanovcloud.com/Desktop/FinalDZ/bin/Debug/net7.0/FinalDZ.pdb
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.dll
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/refint/FinalDZ.dll
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.pdb
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/FinalDZ.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/FinalDZ/obj/Debug/net7.0/ref/FinalDZ.dll
